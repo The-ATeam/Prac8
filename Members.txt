@@ -7,3 +7,11 @@ MEMBER 2 Ilan
 MEMBER 3 Nathan
  
 MEMBER 4 David
+
+Ilan
+ 
+I am from Brazil, the land of soccer and samba
+ 
+Role in project: help team mates
+ 
+Preferred branch of engineering: Production 
