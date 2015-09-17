@@ -8,8 +8,12 @@ MEMBER 3 Nathan
  
 MEMBER 4 David
 
+<<<<<<< HEAD
 David
 
 I attend monash university
 I am acting team leader
 my prefered branch of engineering is birch
+=======
+Peace guys
+>>>>>>> origin/master
