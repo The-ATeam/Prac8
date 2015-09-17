@@ -8,6 +8,7 @@ MEMBER 3 Nathan
  
 MEMBER 4 David
 
+<<<<<<< HEAD
 Ilan
  
 I am from Brazil, the land of soccer and samba
@@ -15,3 +16,21 @@ I am from Brazil, the land of soccer and samba
 Role in project: help team mates
  
 Preferred branch of engineering: Production 
+=======
+<<<<<<< HEAD
+
+Clara
+
+i'm from Germany and I have no idea what I'm doing
+=======
+<<<<<<< HEAD
+David
+
+I attend monash university
+I am acting team leader
+my prefered branch of engineering is birch
+=======
+Peace guys
+>>>>>>> origin/master
+>>>>>>> master
+>>>>>>> Clara
