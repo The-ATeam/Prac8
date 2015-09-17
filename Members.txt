@@ -7,3 +7,8 @@ MEMBER 2 Ilan
 MEMBER 3 Nathan
  
 MEMBER 4 David
+
+
+Clara
+
+i'm from Germany and I have no idea what I'm doing
