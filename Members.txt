@@ -7,3 +7,9 @@ MEMBER 2 Ilan
 MEMBER 3 Nathan
  
 MEMBER 4 David
+
+David
+
+I attend monash university
+I am acting team leader
+my prefered branch of engineering is birch
